@@ -18,7 +18,7 @@ The following are **Skills & Technology** that Rachel has used in a professional
 |Office |Microsoft Office: Outlook, Powerpoint, Excel, Word, OneNote, Sharepoint <br> Google: Gmail, Docs, Sheets, Forms, Slides, Drive <br> Other: Confluence, Webex, Mattermost, Slack <br> |
 |Agile Management|  Jira / Confluence <br> Rally <br> Microsoft Project  <br>|
 |Reporting Tools|Splunk <br> Grafana <br> Tableau <br> Business Objects |
-|Other Misc Technical|  Docker Containers <br> AWS Services (See Below) <br> Jira/Confluence Admin <br> draw.io |
+|Other Misc Technical|  Docker Containers <br> AWS Services (See Below) <br> Jira/Confluence Admin <br> draw.io <br> Mural <br> Miro |
 
 
 ### Additional Skill Areas:
