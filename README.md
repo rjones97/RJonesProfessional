@@ -54,10 +54,9 @@ The following are **Skills & Technology** that Rachel has used in a professional
 * Strata: Data Conference	2017, 2018
 * Scaled Agile Framework Training	2017
 * Star West Conference: Software Testing and Quality Assurance	2015, 2016
-* Assorted software development, testing, and performance training	2001 - 2012
 
 
-Lewis & Clark College: Bachelors in Computer Science & Mathematics	1999
+Lewis & Clark College: Bachelors in Computer Science & Mathematics	
 
 
 ---- 
